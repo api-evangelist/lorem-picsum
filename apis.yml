@@ -39,7 +39,6 @@ apis:
   - name: Lorem Picsum
     description: "Images from Unsplash"
     humanURL: https://picsum.photos/
-    baseURL: https://picsum.photos/
     tags:
       - Photography
     properties:
